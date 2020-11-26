@@ -1,0 +1,1 @@
+export { Swiper as SwiperInterface, SwiperOptions } from 'swiper';
