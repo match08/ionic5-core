@@ -1,1 +1,1 @@
-export { Swiper as SwiperInterface, SwiperOptions } from 'swiper';
+export { Swiper as SwiperInterface, SwiperOptions } from 'swiper/bundle';
